@@ -46,20 +46,26 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Gaztron",
+    description:
+      "Build a Website for Gaztron, India’s leading manufacturer of high-quality On-Site PSA Nitrogen & Oxygen Gas Generator Plants.",
+    tags: ["Angular.js", "Node.js", "MongoDB", "Bootstrap"],
+    imageUrl: corpcommentImg,
+  },
+  {
+    title: "Personal Portfolio",
+    description:
+      "My personal portfolio showcases a collection of projects, skills, and passion for innovative web developmen.",
+    tags: ["Reactjs", "Next.js", "MongoDB", "Tailwind"],
+    imageUrl: wordanalyticsImg,
+  },
+  {
     title: "Cinemon",
     description:
       "Mobile app for cinema and movie information. Enables user to explore upcoming movies and view showtimes at different theaters.",
     tags: ["Flutter", "Firebase"],
     imageUrl: rmtdevImg,
   },
-  {
-    title: "Gaztron",
-    description:
-      "Build a Website for Gaztron, India’s leading manufacturer of high-quality On-Site PSA Nitrogen & Oxygen Gas Generator Plants.",
-    tags: ["Angular.js", "Node.js", "MongoDB", "Bootstrap"],
-    imageUrl: corpcommentImg,
-  }
-  
 ] as const;
 
 export const skillsData = [
@@ -77,5 +83,5 @@ export const skillsData = [
   "GraphQL",
   "Express",
   "PostgreSQL",
-  "Python"
+  "Python",
 ] as const;
