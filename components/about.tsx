@@ -19,25 +19,19 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        As a <span className="font-medium">Freelancer</span>, I leverage my
-        skills in React.js, Angular.js, Next.js, and Flutter to create and
-        deploy scalable and user-friendly applications for various clients. I
-        have a Bachelor of Science in{" "}
-        <span className="font-medium">Computer Science</span>
-        from University of Engineering and Technology, Lahore. I have been
-        working as a freelance developer for a year. I am passionate about
-        learning new technologies and solving complex problems with innovative
-        solutions. My mission is to help businesses and organizations achieve
-        their goals and improve their performance with the power of cloud
-        computing and software development.
+        As a <span className="font-medium"> Sales and Operations Manager in the UAE and Pakistan</span>, I have consistently elevated company sales, effectively managed operations, and played a pivotal role in propelling organizations to new heights.{" "}
+        <span className="font-medium">From dynamic market expansions in China to strategic leadership in Oman and successful product launches nationwide in Pakistan, </span>
+        my diverse experiences showcase a comprehensive skill set, including <span className="font-bold">customer relationship management, team leadership, and innovative market penetration.</span> I am adept at navigating global business landscapes, fostering key relationships, and driving impactful results.{" "}
+        <span className="font-bold">With a Master's in Business Administration from Barani Institute of Management Sciences and Bachelor of Arts from Allama Iqbal Open University, I bring a wealth of expertise in international business development, sales strategy, and operations management</span>
+
+        
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about <span className="font-medium">Kubenetes</span>. I'm also
-        learning how to play the Chess.
+        <span>When I'm not working</span>, I enjoy
+        watching movies, and spending time with nature. I also enjoy{" "}
+        <span className="font-medium">learning new things.</span>. I am currently
+        learning about <span className="font-medium">New Market and Leadership Qualities which will further enhance my skill set</span>.
       </p>
     </motion.section>
   );
